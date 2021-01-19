@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
-![캡처](https://user-images.githubusercontent.com/24729427/105000123-4d52ac00-5a71-11eb-81ce-7049d15e26cd.PNG)
+
 
 # 예제 - 음식배달
 
@@ -272,6 +272,7 @@ public class 결제이력 {
 }
 
 ```
+![캡처](https://user-images.githubusercontent.com/24729427/105000123-4d52ac00-5a71-11eb-81ce-7049d15e26cd.PNG)
 - Entity Pattern 과 Repository Pattern 을 적용하여 JPA 를 통하여 다양한 데이터소스 유형 (RDB or NoSQL) 에 대한 별도의 처리가 없도록 데이터 접근 어댑터를 자동 생성하기 위하여 Spring Data REST 의 RestRepository 를 적용하였다
 ```
 package fooddelivery;
